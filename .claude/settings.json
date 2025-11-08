@@ -1,0 +1,8 @@
+{
+  "hooks": {
+    "PostToolUse": {
+      "command": "~/Documents/github/scripts/context-monitor.sh",
+      "timeout": 5000
+    }
+  }
+}
